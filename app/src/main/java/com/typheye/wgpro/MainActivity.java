@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WebView main_webview = null;
     public static UIParams current_params = new UIParams();
-    public static List<String> logs = new ArrayList<>(Arrays.asList("wgpro-android Tool V1", "https://github.com/typheye/wgpro-android"));
+    public static List<String> logs = new ArrayList<>(Arrays.asList("wgpro-android Tool V2", "https://github.com/typheye/wgpro-android"));
 
     public static NodeApi nodeApi = null;
     public static AuthApi authApi = null;
